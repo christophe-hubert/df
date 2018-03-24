@@ -12,6 +12,7 @@ projects[drupal][patch][] = https://www.drupal.org/files/issues/2885441-2.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2815221-87.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2877383-56.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2670730-81-89-8.5.0-rc1.patch
+projects[drupal][patch][] = https://www.drupal.org/files/issues/2752961-130.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/node-migration-traits-database-exception-2703669-3.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/2635712-14.patch
 projects[drupal][patch][] = https://www.drupal.org/files/issues/refreshless-alpha3-core-patch-2695717-7.patch

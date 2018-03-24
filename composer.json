@@ -9,7 +9,8 @@
         "drupal/console": "^1.0.0",
         "grasmash/yaml-cli": "^1.0",
         "drupal/media_entity_generic": "1.x-dev",
-        "acquia/lightning_dev": "dev-8.x-1.x"
+        "acquia/lightning_dev": "dev-8.x-1.x",
+        "jakoch/phantomjs-installer": "dev-master as 1.9.8"
     },
     "repositories": {
         "0": {
@@ -83,6 +84,27 @@
             ],
             "themes/contrib/{$name}": [
                 "type:drupal-theme"
+            ],
+            "docroot/modules/contrib/{$name}": [
+                "type:drupal-module"
+            ],
+            "docroot/modules/custom/{$name}": [
+                "type:drupal-custom-module"
+            ],
+            "docroot/profiles/contrib/{$name}": [
+                "type:drupal-profile"
+            ],
+            "docroot/profiles/custom/{$name}": [
+                "type:drupal-custom-profile"
+            ],
+            "docroot/themes/contrib/{$name}": [
+                "type:drupal-theme"
+            ],
+            "docroot/themes/custom/{$name}": [
+                "type:drupal-custom-theme"
+            ],
+            "drush/contrib/{$name}": [
+                "type:drupal-drush"
             ]
         },
         "enable-patching": true,
@@ -166,6 +188,17 @@
                     "2877751 - Inform users how many items they can add to a field that uses an entity browser": "https://www.drupal.org/files/issues/2877751-17.patch"
                 }
             }
+        },
+        "merge-plugin": {
+            "require": [
+                "blt/composer.required.json",
+                "blt/composer.suggested.json"
+            ],
+            "merge-extra": true,
+            "merge-extra-deep": true,
+            "merge-scripts": true,
+            "replace": false,
+            "ignore-duplicates": true
         }
     },
     "require": {
@@ -240,7 +273,8 @@
         "drupal/zurb_foundation": "6.x-dev",
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "loopindex/ckeditor-track-changes": "dev-master#a7df5c6b685385713e8aaf2df3f44c82e3bf823a",
-        "oomphinc/composer-installers-extender": "^1.1"
+        "oomphinc/composer-installers-extender": "^1.1",
+        "acquia/blt": "^9.0.0"
     },
     "autoload": {
         "psr-4": {
