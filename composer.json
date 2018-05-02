@@ -214,7 +214,7 @@
         "drupal/moderation_note": "1.0-beta1",
         "drupal/moderation_sidebar": "1.0-beta1",
         "drupal/migrate_plus": "4.0.0-beta3",
-        "drupal/migrate_source_csv": "2.0.0",
+        "drupal/migrate_source_csv": "2.1.0",
         "drupal/migrate_tools": "4.0.0-beta3",
         "drupal/oauth": "2.1.0",
         "drupal/page_manager": "^4.3",
