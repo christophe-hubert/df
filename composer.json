@@ -1,6 +1,6 @@
 {
     "name": "christophe-hubert/df",
-    "description": "DF framework forked to enable newer module versions, as geolocation.",
+    "description": "DF framework forked to enable newer module versions, as geolocation 2.x, to leave Google Maps..",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
