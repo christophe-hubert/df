@@ -1,6 +1,6 @@
 {
-    "name": "acquia/df",
-    "description": "A framework for demoing enterprise-ready Drupal solutions.",
+    "name": "christophe-hubert/df",
+    "description": "DF framework forked to enable newer module versions, as geolocation.",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
@@ -229,7 +229,7 @@
         "drupal/geocoder": "2.0.0-beta3",
         "drupal/geofield": "1.0.0-beta4",
         "drupal/geophp": "1.x-dev#cb7b8c6b8465e3af41f8f6f8b43c7057c4ca9128",
-        "drupal/geolocation": "1.x-dev#e4639b9da6c963d9fb802b822bbdeebaa0853b4d",
+        "drupal/geolocation": "2.x-dev",
         "drupal/google_analytics": "2.3.0",
         "drupal/image_effects": "1.1.0",
         "drupal/import": "2.0.0-beta2",
