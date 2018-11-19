@@ -269,7 +269,7 @@
         "drupal/webform": "5.0.0-rc24",
         "drupal/webform_views": "5.0.0-alpha5",
         "drupal/workbench_email": "1.0-rc2",
-        "drupal/zurb_foundation": "6.0.0-alpha4",
+        "drupal/zurb_foundation": "^6.0",
         "drupal-composer/drupal-scaffold": "^2.0.0",
         "cweagans/composer-patches": "1.x-dev as 1.6.5",
         "loopindex/ckeditor-track-changes": "dev-master#a7df5c6b685385713e8aaf2df3f44c82e3bf823a",
