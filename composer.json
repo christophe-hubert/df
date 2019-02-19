@@ -21,10 +21,6 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/acquia/lightning-dev"
-        },
-        {
-            "type": "vcs",
             "url": "https://github.com/acquia/lift-sdk-php"
         },
         {
