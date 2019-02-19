@@ -101,8 +101,6 @@
                 "https://www.drupal.org/files/issues/core-fatal_error_main_content_block-2819219-2.patch",
                 "Invoke hook after a site install is complete | https://www.drupal.org/node/2924549":
                 "https://www.drupal.org/files/issues/core-post-site-install-hook.patch",
-                "Unable to save a translation if the path alias changes | https://www.drupal.org/node/2930599":
-                "https://www.drupal.org/files/issues/content_moderation-path_alias-2930599-09.patch",
                 "Dispatch events for changing content moderation states | https://www.drupal.org/node/2873287":
                 "https://www.drupal.org/files/issues/2018-08-15/2873287-48.patch",
                 "Fatal error: Call to a member function url() on null | https://www.drupal.org/project/drupal/issues/2565247":
@@ -146,9 +144,7 @@
                 "facets_range_widget: 'TypeError: r.toFixed() is not a function' | https://www.drupal.org/project/facets/issues/2922151": "https://www.drupal.org/files/issues/facets_range_widget_js_error_toFixed_is_not_a_function-2922151-2.patch"
             },
             "drupal/material_admin": {
-                "Add Color module integration | https://www.drupal.org/node/3000991": "https://www.drupal.org/files/issues/2018-09-19/add-color-module-3000991-2.patch",
-                "Add Site name and logo | https://www.drupal.org/node/3001961": "https://www.drupal.org/files/issues/2018-09-24/add-sitename-and-logo-3001961-4.patch"
-
+                "Add Color module integration | https://www.drupal.org/node/3000991": "https://www.drupal.org/files/issues/2018-09-19/add-color-module-3000991-2.patch"
             },
             "drupal/material_admin_support": {
                 "Add Lightning's \"Audio File\" and \"Video File\" to the color install | https://www.drupal.org/node/3000992": "https://www.drupal.org/files/issues/2018-09-19/material_admin_support-add-video-audio-file-color-icons-0.patch"
