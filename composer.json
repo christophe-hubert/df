@@ -208,7 +208,7 @@
         "drupal/config_tools": "1.x-dev",
         "drupal/content_browser": "1.0.0-alpha4",
         "drupal/custom_body_class": "1.2.0",
-        "drupal/entity_browser": "^2.1",
+        "drupal/entity_browser": "^2.0",
         "drupal/entity_browser_block": "1.x-dev",
         "drupal/entity_gallery": "1.x-dev",
         "drupal/entity_usage": "2.0.0-alpha2",
