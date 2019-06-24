@@ -8,7 +8,7 @@
     "require-dev": {
         "drush/drush": "^9.0",
         "drupal/console": "^1.7.0",
-        "christophe-hubert/lightning_dev": "dev-8.x-1.x"
+        "acquia/lightning": "^4.0"
     },
     "repositories": [
         {
